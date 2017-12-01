@@ -4,7 +4,7 @@ html {
 }
 
 .banner {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 .heading {
@@ -27,4 +27,22 @@ html {
 .Identify {
   font-size: 23px;
   font-weight: bold;
+}
+
+.banner2 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.paragraph {
+  font-size: 14px;
+}
+
+.copyright {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
